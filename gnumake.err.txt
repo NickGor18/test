@@ -1,0 +1,4 @@
+Exception in thread "main" java.lang.AssertionError: Assertion failed: m != 0
+	at lab4.Fraction.Print(Farction.java:63)
+	at lab4.main.main(main.java:56)
+gnumake.EXE: *** [run] Error 1

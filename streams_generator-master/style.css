@@ -1,0 +1,57 @@
+.box {
+    margin: 1%;
+}
+.stream {
+    margin-bottom: 1%; 
+}
+#start {
+    margin-left: 10%;
+    margin-top: 2%;
+    width: auto;
+    border-radius: 10%;
+    border: 1px solid chocolate;
+    box-shadow: black;
+}
+.ranges {
+    margin: 1%;
+}
+.range {
+    margin-right: 2%;
+}
+#erase{
+    margin-left: 10%;
+    margin-top: 2%;
+    width: auto;
+    border-radius: 10%;
+    border: 1px solid chocolate;
+    box-shadow: black;
+}
+.head{
+    position: relative;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    margin-top: 40px;
+
+}
+input {
+    position: relative;
+    font-size: 16px;
+    padding: 10px;
+    width: 107px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+  }
+  input:focus {
+    outline: none;
+  }
+select{
+    position: relative;
+    font-size: 16px;
+    padding: 10px;
+    width: 90px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+select:focus{
+    outline: none;
+}

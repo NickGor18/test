@@ -1,0 +1,39 @@
+x=c(5.5,5.3,4.5,3.8,3.6,4.0,4.6)
+y=c(1.8,2.2,3.7,4.2,4.3,4.1,3.7)
+n=7
+sumx=0
+sumy=0
+sumx2=0
+sumxy=0
+for(i in 1:7)
+{
+  sumx=x[i]+sumx
+  sumy=y[i]+sumy
+  sumx2=x[i]^2+sumx2
+  sumxy=x[i]*y[i]+sumxy
+}
+a=(n*sumxy-sumx*sumy)/(n*sumx2-sumx^2)
+b=(sumx2*sumy-sumxy*sumx)/(n*sumx2-sumx^2)
+imfl=4.8*a+b
+imfl
+lm(y~x)
+matrix=read.table("C:\\Users\\Nick Goroshko\\Downloads\\Telegram Desktop\\allcountries.txt",header = TRUE)
+na.omit(matrix)
+v=complete.cases(matrix)
+fa=which(v==FALSE)
+length(fa)
+tr=length(v)-length(fa)
+vect=c()
+for(i in 1:220)
+{
+  if(is.na(matrix[i,3]))
+  {
+    vect=c(vect,matrix[i,2]*10^5)
+  }
+  else
+    vect=c(vect,matrix[i,2]/matrix[i,3])
+}
+k=min(vect)
+k
+t=matrix[which(vect==min(vect)),1]
+t

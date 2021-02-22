@@ -1,0 +1,146 @@
+#ch_b1, #ch_b3, #ch_b4, #ch_b5, #ch_b6, #ch_b7, #ch_b8{
+    position: relative;
+    left: 0%;
+    top: -40%;
+    display: none;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    text-decoration: none;
+    border: .5em solid rgba(0,0,0,0);
+    border-radius: 100%;
+    background: rgb(245,245,245) linear-gradient(rgb(245,245,245), rgb(188,192,193)) 50% 50% / calc(1.5em + .5em*2) calc(1.5em + .5em*2);
+    box-shadow:
+     inset 0 -3px 10px rgba(255,255,255,1),
+     inset 0 3px 10px rgba(0,0,0,.4),
+     0 2px 4px rgba(0,0,0,.9);
+  }
+  #ch_b2{
+    position: relative;
+    left: 70%;
+    top: -85%;
+    display: none;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    text-decoration: none;
+    border: .5em solid rgba(0,0,0,0);
+    border-radius: 100%;
+    background: rgb(245,245,245) linear-gradient(rgb(245,245,245), rgb(188,192,193)) 50% 50% / calc(1.5em + .5em*2) calc(1.5em + .5em*2);
+    box-shadow:
+     inset 0 -3px 10px rgba(255,255,255,1),
+     inset 0 3px 10px rgba(0,0,0,.4),
+     0 2px 4px rgba(0,0,0,.9);
+  }
+  #ch_b1:hover{
+    cursor: pointer;
+    box-shadow:
+     inset 0 -3px 10px rgba(255,255,255,1),
+     inset 0 3px 10px rgba(0,0,0,.4),
+     0 2px 30px rgba(0,0,0,.9);
+  } 
+  #ch_b2:hover{
+    cursor: pointer;
+    box-shadow:
+     inset 0 -3px 10px rgba(255,255,255,1),
+     inset 0 3px 10px rgba(0,0,0,.4),
+     0 2px 30px rgba(0,0,0,.9);
+  } 
+  #ch_b3:hover{
+    cursor: pointer;
+    box-shadow:
+     inset 0 -3px 10px rgba(255,255,255,1),
+     inset 0 3px 10px rgba(0,0,0,.4),
+     0 2px 30px rgba(0,0,0,.9);
+  } 
+  #ch_b4:hover{
+    cursor: pointer;
+    box-shadow:
+     inset 0 -3px 10px rgba(255,255,255,1),
+     inset 0 3px 10px rgba(0,0,0,.4),
+     0 2px 30px rgba(0,0,0,.9);
+  }
+  #ch_b5:hover{
+    cursor: pointer;
+    box-shadow:
+     inset 0 -3px 10px rgba(255,255,255,1),
+     inset 0 3px 10px rgba(0,0,0,.4),
+     0 2px 30px rgba(0,0,0,.9);
+  } 
+  #ch_b6:hover{
+    cursor: pointer;
+    box-shadow:
+     inset 0 -3px 10px rgba(255,255,255,1),
+     inset 0 3px 10px rgba(0,0,0,.4),
+     0 2px 30px rgba(0,0,0,.9);
+  } 
+  #ch_b7:hover{
+    cursor: pointer;
+    box-shadow:
+     inset 0 -3px 10px rgba(255,255,255,1),
+     inset 0 3px 10px rgba(0,0,0,.4),
+     0 2px 30px rgba(0,0,0,.9);
+  } 
+  #ch_b8:hover{
+    cursor: pointer;
+    box-shadow:
+     inset 0 -3px 10px rgba(255,255,255,1),
+     inset 0 3px 10px rgba(0,0,0,.4),
+     0 2px 30px rgba(0,0,0,.9);
+  }
+  #ans1, #ans2, #ans3, #ans4, #ans5, #ans6, #ans7, #ans8{
+    transform: rotateY(180deg);
+    backface-visibility: hidden;
+}
+.img-menu{
+    position: relative;
+    top: -70%;
+    left: 5%;
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    z-index: 0;
+  }
+  .img-menu div{
+    background-color: #d8d8d8;
+    font-size: 40px;
+    font-family: cursive;
+    border-radius: 3%;
+    height: 200px;
+    transform: rotateX(0) rotateY(0);
+    transform-style: preserve-3d;
+    position: relative;
+    transition: 0.6s;
+  }
+  .img-menu div:hover{
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    color: black;
+    transform: rotateY(180deg);
+    }
+    .img-menu a{
+      margin: 0;
+      text-decoration: none;
+      color: grey;
+    }
+  .img-menu div img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  .img-menu div div{
+      position: absolute;
+      width: 100%;
+      top: 0;
+  }
+  .front{
+    backface-visibility: hidden;
+    z-index: 2;
+  }
+  .back{
+    transform: rotateY(180deg);
+    backface-visibility: hidden;
+  }

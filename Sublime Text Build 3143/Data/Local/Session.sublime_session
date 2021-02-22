@@ -1,0 +1,648 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3176,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"c",
+						"center"
+					],
+					[
+						"a",
+						"align\tAttr"
+					],
+					[
+						"b",
+						"border\tAttr"
+					],
+					[
+						"bg",
+						"background-color"
+					],
+					[
+						"t",
+						"table\tTag"
+					],
+					[
+						"o",
+						"ol\tTag"
+					],
+					[
+						"st",
+						"style\tAttr"
+					],
+					[
+						"l",
+						"li\tTag"
+					],
+					[
+						"u",
+						"u\tTag"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"fon",
+						"font-style"
+					],
+					[
+						"p",
+						"p\tTag"
+					],
+					[
+						"f",
+						"font-size"
+					],
+					[
+						"bor",
+						"border-color"
+					],
+					[
+						"border",
+						"border-color"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"s",
+						"style\tAttr"
+					],
+					[
+						"fo",
+						"font-style"
+					],
+					[
+						"pr",
+						"pre\tTag"
+					],
+					[
+						"h",
+						"h1\tTag"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/temp/горошко/2.html",
+				"/D/temp/горошко/1.html",
+				"/D/temp/горошко/1.css",
+				"/F/Проект/1.html",
+				"/F/Проект/1.css",
+				"/F/УП/Проект/2.css",
+				"/F/УП/Проект/5.html",
+				"/F/УП/Проект/4.html",
+				"/F/УП/Проект/3.html",
+				"/F/УП/Проект/2.html",
+				"/F/УП/Проект/1.html",
+				"/F/УП/Проект/1.css",
+				"/F/УП/Проект/6.html",
+				"/D/Temp/1.css",
+				"/D/Temp/1.html"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"2001",
+					"которых"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"c",
+						"center"
+					],
+					[
+						"a",
+						"align\tAttr"
+					],
+					[
+						"b",
+						"border\tAttr"
+					],
+					[
+						"bg",
+						"background-color"
+					],
+					[
+						"t",
+						"table\tTag"
+					],
+					[
+						"o",
+						"ol\tTag"
+					],
+					[
+						"st",
+						"style\tAttr"
+					],
+					[
+						"l",
+						"li\tTag"
+					],
+					[
+						"u",
+						"u\tTag"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"fon",
+						"font-style"
+					],
+					[
+						"p",
+						"p\tTag"
+					],
+					[
+						"f",
+						"font-size"
+					],
+					[
+						"bor",
+						"border-color"
+					],
+					[
+						"border",
+						"border-color"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"s",
+						"style\tAttr"
+					],
+					[
+						"fo",
+						"font-style"
+					],
+					[
+						"pr",
+						"pre\tTag"
+					],
+					[
+						"h",
+						"h1\tTag"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/Nick Goroshko/Downloads/Telegram Desktop/index.html",
+					"settings":
+					{
+						"buffer_size": 6662,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Nick Goroshko/Downloads/Telegram Desktop/index (3).html",
+					"settings":
+					{
+						"buffer_size": 23817,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Job stuff/tests/Default/Preferences",
+					"settings":
+					{
+						"buffer_size": 255880,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Nick Goroshko/Downloads/LoadFaculties.m",
+				"/C/Users/Nick Goroshko/Downloads/stack.cpp",
+				"/C/Users/Nick Goroshko/Downloads/Main (1).cpp",
+				"/D/new_up/up_8/Main.java",
+				"/C/Users/Nick Goroshko/Downloads/readfile.sh",
+				"/C/Users/Nick Goroshko/Downloads/Galkina_10gr_A7",
+				"/C/Users/Nick Goroshko/Downloads/myscript",
+				"/C/Programing/Java/os3/src/MainDialog.form",
+				"/D/ThreadBall.java",
+				"/D/Main.java",
+				"/C/Users/Nick Goroshko/Downloads/MainDialog.form",
+				"/C/Programing/Java/Applet-master/src/applet.html",
+				"/C/Programing/Java/Applet-master/src/kate.html",
+				"/C/Programing/Java/Lab10/bin/triangle.html",
+				"/C/Programing/Java/Lab10/src/triangle.html",
+				"/C/Users/Nick Goroshko/Downloads/Lab_3-1 (1).r",
+				"/C/Users/Nick Goroshko/Downloads/lab4.r",
+				"/C/Users/Nick Goroshko/Downloads/lab4 (1).r",
+				"/C/Users/Nick Goroshko/Downloads/Lab_3-1.r",
+				"/C/Users/Nick Goroshko/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/lab6 (1).r",
+				"/C/Users/Nick Goroshko/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/lab5 (1).r",
+				"/C/Users/Nick Goroshko/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/lab6 (3).r",
+				"/C/Programing/Java/Lab4/src/makefile",
+				"/C/Users/Nick Goroshko/Downloads/Test 1 Intermediate.doc",
+				"/C/Programing/git-sample/.git/config",
+				"/C/Users/Nick Goroshko/Downloads/Lab_3.r",
+				"/C/Programing/1.html",
+				"/D/temp/горошко/2.html",
+				"/D/temp/горошко/1.html",
+				"/D/temp/горошко/1.css",
+				"/F/Проект/1.html",
+				"/F/Проект/1.css",
+				"/F/УП/Проект/2.css",
+				"/F/УП/Проект/5.html",
+				"/F/УП/Проект/4.html",
+				"/F/УП/Проект/3.html",
+				"/F/УП/Проект/2.html",
+				"/F/УП/Проект/1.html",
+				"/F/УП/Проект/1.css",
+				"/F/УП/Проект/6.html",
+				"/D/Temp/1.css",
+				"/D/Temp/1.html"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"media_stream_mic",
+					"2001",
+					"которых"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Nick Goroshko/Downloads/Telegram Desktop/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6662,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4469,
+										5261
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1383.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Nick Goroshko/Downloads/Telegram Desktop/index (3).html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 23817,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										23817
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 11215.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Job stuff/tests/Default/Preferences",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 255880,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										90234,
+										90234
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 11558.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,626,686,88,1342",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
